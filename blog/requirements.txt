@@ -1,0 +1,6 @@
+# Requires Python 3.4
+https://www.djangoproject.com/download/1.7.b4/tarball/
+PyYAML==3.11
+defusedxml==0.4.1
+djangorestframework==2.3.13
+termcolor==1.1.0
